@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Congratulations on completing your Song Discovery project! This project is a web application that allows users to discover music based on their sign. Users can enter the name of their zodiac sign, and the app will fetch music related to that sign using the Deezer API. The project is built using React and React Router for navigation.
+This project is a web application that allows users to discover music based on their sign. Users can enter the name of their zodiac sign, and the app will fetch music related to that sign using the Deezer API. The project is built using React and React Router for navigation.
 
 ## Project Structure
 
